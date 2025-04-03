@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #102542;
+    padding: 20px;
+}
+h1
+{
+    color: #F87060;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 50px;
+    margin: 20px;
+
+}
+.clock{
+    font-size: 50px;
+    margin: 20px;
+    color: #F87060;
+}
+button{
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+}
+
